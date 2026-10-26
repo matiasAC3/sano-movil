@@ -10,7 +10,7 @@ Proyecto del ramo **INGT1003 · Arquitectura de Desarrollo (Móvil y Web)**, Uni
 
 | Nombre | 	Usuario de GitHub  |
 |---|---|
-| Matías Añasco | 
+| Matías Añasco |  [matiasAC3](https://github.com/matiasAC3)
 | Gabriel Riquelme | [@gabrielriquelme-boop](https://github.com/gabrielriquelme-boop)
 
 Profesor: Carlos Muñoz.
