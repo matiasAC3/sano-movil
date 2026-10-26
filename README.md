@@ -1,17 +1,47 @@
-
 # Sano Móvil
 
-> "Plataforma de diagnóstico preventivo y acompañamiento que traduce datos crudos de hardware y software a un lenguaje visual y humano."
+> **Traducimos tu celular a un lenguaje simple para que lo cuides sin miedo.**
+
+Sano Móvil es una aplicación Android que revisa el estado del teléfono (hardware, software y privacidad) y lo explica con palabras sencillas: un puntaje de salud de 0 a 100, un semáforo de riesgos y guías paso a paso. Está pensada para adultos mayores y para personas sin conocimientos informáticos.
+
+Proyecto del ramo **INGT1003 · Arquitectura de Desarrollo (Móvil y Web)**, Universidad Mayor. Segundo semestre 2026.
 
 ## Integrantes
-- Matías Añasco Campos ([@usuario-matias](https://github.com/usuario-matias))
-- Gabriel Riquelme . ([@usuario-gabriel](https://github.com/usuario-gabriel))
 
-## Enlaces del Proyecto
-- 📄 **Documento de Propuesta (Hito 1):** [Ver Google Doc / PDF del Informe](https://docs.google.com/document/d/129ONTgv5WV4a74ZA3OX4AObjvEGT6De_cLja2Q7IO_4/edit)
-- 📱 **Prototipo Interactivo / Demo:** [Ver Demo en Línea](#)
+| Nombre |
+|---|---|
+| Matías Añasco | 
+| Gabriel Riquelme | 
 
-## Instrucciones de Instalación y Ejecución
-1. Clonar el repositorio:
-   ```bash
-   git clone [https://github.com/tu-usuario/sano-movil.git](https://github.com/tu-usuario/sano-movil.git)
+Profesor: Carlos Muñoz.
+
+## Prototipo navegable
+
+- **Demo interactivo (Inicio → Escanear → Resultado → Guía):**
+- file:///D:/gabri/Downloads/Sano%20Móvil%20·%20Demo%20interactivo.html
+
+El demo usa datos de ejemplo, porque un navegador no puede leer la batería ni los permisos reales del teléfono. La app real está en este repositorio.
+
+## Documentos
+
+- [Propuesta comercial y técnica (Hito 1)](docs/Propuesta_Hito1.pdf)
+- Mapa del producto y recorrido del usuario: [`docs/mapa_producto_recorrido.png`](docs/mapa_producto_recorrido.png)
+- Diagrama de arquitectura: [`docs/diagrama_arquitectura.png`](docs/diagrama_arquitectura.png)
+- Caso de uso «Revisar mi equipo»: [`docs/caso_de_uso_revision.png`](docs/caso_de_uso_revision.png)
+
+![Mapa del producto](docs/mapa_producto_recorrido.png)
+
+![Arquitectura](docs/diagrama_arquitectura.png)
+
+## Tecnologías
+
+- Kotlin y Jetpack Compose (Android nativo, `minSdk 26`).
+- Datos locales en JSON (`assets/datos/`): guías, síntomas y alertas por modelo.
+- Sin permiso de Internet: ningún dato sale del teléfono.
+- Cuentas con Firebase Authentication y servidor propio: planificados para los próximos hitos.
+
+## Cómo ejecutar
+
+1. Abrir el proyecto en Android Studio.
+2. Esperar la sincronización de Gradle (**File > Sync Project with Gradle Files**).
+3. Ejecutar en un emulador o en un teléfono con Android 8.0 o superior.
