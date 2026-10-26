@@ -18,18 +18,18 @@ Profesor: Carlos Muñoz.
 ## Prototipo navegable
 
 - **Demo interactivo (Inicio → Escanear → Resultado → Guía):**
-- Ingresar a docs/demo.html y se da a descargar
+- [Abrir demo interactivo de la app](docs/demo.html)
 
 El demo usa datos de ejemplo, porque un navegador no puede leer la batería ni los permisos reales del teléfono. La app real está en este repositorio.
 
 ## Documentos
 
-- [Propuesta comercial y técnica (Hito 1)](docs/Propuesta_Hito1.pdf)
+- [Ver propuesta comercial y técnica (PDF)](Informe.pdf)
 - Mapa del producto y recorrido del usuario: [`docs/mapa_producto_recorrido.png`](docs/mapa_producto_recorrido.png)
 - Diagrama de arquitectura: [`docs/diagrama_arquitectura.png`](docs/diagrama_arquitectura.png)
 
 
-![Mapa del producto](docs/mapa_producto_recorrido.png)
+![Mapa del producto](docs/Mapa_producto.jpeg)
 
 ![Arquitectura](docs/diagrama_arquitectura.png)
 
