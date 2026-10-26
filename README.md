@@ -8,10 +8,10 @@ Proyecto del ramo **INGT1003 · Arquitectura de Desarrollo (Móvil y Web)**, Uni
 
 ## Integrantes
 
-| Nombre |
+| Nombre | 	Usuario de GitHub  |
 |---|---|
 | Matías Añasco | 
-| Gabriel Riquelme | 
+| Gabriel Riquelme | gabrielriquelme-boop --- gabriel.riquelme@mayor.cl
 
 Profesor: Carlos Muñoz.
 
@@ -27,7 +27,7 @@ El demo usa datos de ejemplo, porque un navegador no puede leer la batería ni l
 - [Propuesta comercial y técnica (Hito 1)](docs/Propuesta_Hito1.pdf)
 - Mapa del producto y recorrido del usuario: [`docs/mapa_producto_recorrido.png`](docs/mapa_producto_recorrido.png)
 - Diagrama de arquitectura: [`docs/diagrama_arquitectura.png`](docs/diagrama_arquitectura.png)
-- Caso de uso «Revisar mi equipo»: [`docs/caso_de_uso_revision.png`](docs/caso_de_uso_revision.png)
+
 
 ![Mapa del producto](docs/mapa_producto_recorrido.png)
 
