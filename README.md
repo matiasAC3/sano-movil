@@ -20,14 +20,13 @@ Profesor: Carlos Muñoz.
 - **Demo interactivo (Inicio → Escanear → Resultado → Guía):**
 - [Abrir demo interactivo de la app](docs/demo.html)
 
-- * [Probar demo interactivo en vivo](https://tu-usuario.github.io/tu-repo/demo.html)
 
 El demo usa datos de ejemplo, porque un navegador no puede leer la batería ni los permisos reales del teléfono. La app real está en este repositorio.
 
 ## Documentos
 
-- [Ver propuesta comercial y técnica (PDF)](Informe.pdf)
-- [Presentación del Proyecto (PDF)](Presentación.pdf)
+- [Ver propuesta comercial y técnica (PDF)](docs/Informe.pdf)
+- [Presentación del Proyecto (PDF)](docs/Presentación.pdf)
 - ![Mapa del producto](docs/Mapa_producto.jpeg)
 - Diagrama de arquitectura: [`docs/diagrama_arquitectura.png`](docs/diagrama_arquitectura.png)
 
