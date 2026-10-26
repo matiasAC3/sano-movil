@@ -35,8 +35,8 @@ El demo usa datos de ejemplo, porque un navegador no puede leer la batería ni l
 
 ## Tecnologías
 
-- Kotlin y Jetpack Compose (Android nativo, `minSdk 26`).
-- Datos locales en JSON (`assets/datos/`): guías, síntomas y alertas por modelo.
+- Kotlin y Jetpack Compose (Android nativo, "minSdk 26").
+- Datos locales en JSON ("assets/datos/"): guías, síntomas y alertas por modelo.
 - Sin permiso de Internet: ningún dato sale del teléfono.
 - Cuentas con Firebase Authentication y servidor propio: planificados para los próximos hitos.
 
