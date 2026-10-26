@@ -32,9 +32,6 @@ El demo usa datos de ejemplo, porque un navegador no puede leer la batería ni l
 
 
 
-
-![Arquitectura](docs/diagrama_arquitectura.png)
-
 ## Tecnologías
 
 - Kotlin y Jetpack Compose (Android nativo, "minSdk 26").
