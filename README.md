@@ -27,7 +27,7 @@ El demo usa datos de ejemplo, porque un navegador no puede leer la batería ni l
 
 - [Ver propuesta comercial y técnica (PDF)](docs/Informe.pdf)
 - [Presentación del Proyecto (PDF)](docs/Presentación.pdf)
-- ![Mapa del producto](docs/Mapa del producto.png)
+- ![Mapa del producto](docs/Mapa_del_producto.png)
 - Diagrama de arquitectura: [`docs/diagrama_arquitectura.png`](docs/diagrama_arquitectura.png)
 
 
