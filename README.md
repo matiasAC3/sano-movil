@@ -11,14 +11,14 @@ Proyecto del ramo **INGT1003 · Arquitectura de Desarrollo (Móvil y Web)**, Uni
 | Nombre | 	Usuario de GitHub  |
 |---|---|
 | Matías Añasco | 
-| Gabriel Riquelme | gabrielriquelme-boop --- gabriel.riquelme@mayor.cl
+| Gabriel Riquelme | [@gabrielriquelme-boop](https://github.com/gabrielriquelme-boop)
 
 Profesor: Carlos Muñoz.
 
 ## Prototipo navegable
 
 - **Demo interactivo (Inicio → Escanear → Resultado → Guía):**
-- file:///D:/gabri/Downloads/Sano%20Móvil%20·%20Demo%20interactivo.html
+- Ingresar a docs/demo
 
 El demo usa datos de ejemplo, porque un navegador no puede leer la batería ni los permisos reales del teléfono. La app real está en este repositorio.
 
