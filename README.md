@@ -18,7 +18,7 @@ Profesor: Carlos Muñoz.
 ## Prototipo navegable
 
 - **Demo interactivo (Inicio → Escanear → Resultado → Guía):**
-- [Abrir demo interactivo de la app](docs/demo.html)
+- [Abrir demo interactivo de la app](docs/demo.html) y lo descargas
 
 
 El demo usa datos de ejemplo, porque un navegador no puede leer la batería ni los permisos reales del teléfono. La app real está en este repositorio.
