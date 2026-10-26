@@ -1,0 +1,355 @@
+{
+  "guias": [
+    {
+      "id": "actualizar-sistema",
+      "titulo": "Buscar actualizaciones del sistema",
+      "resumen": "Las actualizaciones corrigen fallas de seguridad conocidas.",
+      "ajuste": "actualizaciones",
+      "pasos": [
+        {
+          "titulo": "Prepara el equipo",
+          "texto": "Una actualización puede tardar y usar bastantes datos. Conecta el cargador y, si puedes, una red WiFi.",
+          "video": "guia_actualizar_1"
+        },
+        {
+          "titulo": "Busca la actualización",
+          "texto": "En Ajustes, entra a «Actualización de software» o «Acerca del teléfono» (el nombre cambia según la marca) y toca «Buscar actualizaciones».",
+          "video": "guia_actualizar_2"
+        },
+        {
+          "titulo": "Instala si hay una disponible",
+          "texto": "Sigue las instrucciones en pantalla. El equipo se reiniciará solo; no lo apagues mientras se instala.",
+          "video": "guia_actualizar_3"
+        },
+        {
+          "titulo": "Ve directo a esa pantalla",
+          "texto": "Toca el botón de abajo para abrir los ajustes de actualización. Si tu equipo no la encuentra, abrirá los ajustes generales.",
+          "video": "guia_actualizar_4"
+        }
+      ]
+    },
+    {
+      "id": "liberar-espacio",
+      "titulo": "Liberar espacio en el equipo",
+      "resumen": "Qué revisar primero cuando el almacenamiento se llena.",
+      "ajuste": "almacenamiento",
+      "pasos": [
+        {
+          "titulo": "Empieza por lo que más pesa",
+          "texto": "Los vídeos y las descargas suelen ocupar más que las fotos. En la sección «Gestionar» de Sano Móvil puedes ver los más recientes.",
+          "video": "guia_espacio_1"
+        },
+        {
+          "titulo": "Elimina lo que ya no necesitas",
+          "texto": "Antes de borrar, confirma que no sea algo importante. Lo que se elimina no se puede recuperar.",
+          "video": "guia_espacio_2"
+        },
+        {
+          "titulo": "Respalda lo que quieras conservar",
+          "texto": "Si quieres guardar tus fotos y liberar espacio, cópialas primero a tu cuenta en la nube o a un computador.",
+          "video": "guia_espacio_3"
+        },
+        {
+          "titulo": "Revisa el almacenamiento",
+          "texto": "Toca el botón de abajo para ver en Ajustes qué ocupa más espacio.",
+          "video": "guia_espacio_4"
+        }
+      ]
+    },
+    {
+      "id": "cuidar-bateria",
+      "titulo": "Cuidar la batería",
+      "resumen": "Hábitos simples para que la batería dure más.",
+      "ajuste": "bateria",
+      "pasos": [
+        {
+          "titulo": "Evita el calor",
+          "texto": "El calor es lo que más desgasta una batería. No dejes el equipo al sol ni dentro del auto, y retira la funda si se calienta al cargar."
+        },
+        {
+          "titulo": "Evita los extremos",
+          "texto": "Intenta no dejar que baje a 0 % con frecuencia ni mantenerlo siempre al 100 %."
+        },
+        {
+          "titulo": "Usa un cargador adecuado",
+          "texto": "Conviene usar el cargador original o uno certificado de buena calidad."
+        },
+        {
+          "titulo": "Revisa el ahorro de batería",
+          "texto": "Toca el botón de abajo para abrir los ajustes de batería y ver qué apps consumen más."
+        }
+      ]
+    },
+    {
+      "id": "revisar-camara-microfono",
+      "titulo": "Revisar quién usa tu cámara y micrófono",
+      "resumen": "Deja el acceso solo a las apps que de verdad lo necesitan.",
+      "ajuste": "privacidad",
+      "pasos": [
+        {
+          "titulo": "Mira qué apps tienen acceso",
+          "texto": "En Sano Móvil, entra a «Privacidad y permisos» y elige Cámara o Micrófono para ver la lista.",
+          "video": "guia_permisos_1"
+        },
+        {
+          "titulo": "Decide con criterio",
+          "texto": "Una app de mensajes o de fotos necesita la cámara. Una linterna o un juego sencillo normalmente no.",
+          "video": "guia_permisos_2"
+        },
+        {
+          "titulo": "Cambia el permiso",
+          "texto": "Toca la app y, en su ficha de Android, entra a «Permisos», elige el permiso y marca «No permitir».",
+          "video": "guia_permisos_3"
+        },
+        {
+          "titulo": "Revisa tu privacidad en general",
+          "texto": "Toca el botón de abajo para abrir los ajustes de privacidad de tu equipo. Los nombres pueden variar según la marca.",
+          "video": "guia_permisos_4"
+        }
+      ]
+    },
+    {
+      "id": "servicios-accesibilidad",
+      "titulo": "Revisar los servicios de accesibilidad",
+      "resumen": "Algunas apps piden control sobre la pantalla; conviene saber cuáles.",
+      "ajuste": "accesibilidad",
+      "pasos": [
+        {
+          "titulo": "Qué son",
+          "texto": "Los servicios de accesibilidad ayudan a personas con discapacidad, pero permiten a una app leer y controlar lo que hay en pantalla. Por eso conviene tener activos solo los que reconoces."
+        },
+        {
+          "titulo": "Revisa la lista",
+          "texto": "Toca el botón de abajo para abrir los ajustes de accesibilidad y mira qué servicios están activados."
+        },
+        {
+          "titulo": "Desactiva lo que no reconozcas",
+          "texto": "Si un servicio no lo usas ni lo reconoces, puedes desactivarlo. Si no estás seguro, consulta primero con alguien de confianza."
+        }
+      ]
+    },
+    {
+      "id": "celular-lento",
+      "titulo": "Cuando el equipo va lento",
+      "resumen": "Tres pasos que suelen ayudar.",
+      "pasos": [
+        {
+          "titulo": "Reinicia el equipo",
+          "texto": "Apágalo y vuélvelo a encender. Si hace tiempo que no lo reinicias, esto solo ya suele mejorar su velocidad."
+        },
+        {
+          "titulo": "Libera espacio",
+          "texto": "Un equipo casi lleno funciona peor. Revisa la guía «Liberar espacio en el equipo»."
+        },
+        {
+          "titulo": "Mantenlo actualizado",
+          "texto": "Las actualizaciones del sistema y de las apps corrigen fallas que pueden hacerlo lento. Revisa la guía «Buscar actualizaciones del sistema»."
+        }
+      ]
+    },
+    {
+      "id": "app-sospechosa",
+      "titulo": "Qué hacer con una app que parece peligrosa",
+      "resumen": "Pasos tranquilos para decidir si quitarla y cómo hacerlo.",
+      "pasos": [
+        {
+          "titulo": "Respira: no es una prueba de virus",
+          "texto": "Que una app aparezca en la lista de Seguridad significa que tiene señales que conviene mirar. No es una prueba de que sea un virus. Tienes tiempo para decidir sin apuro."
+        },
+        {
+          "titulo": "Pregúntate si la reconoces",
+          "texto": "¿La instalaste tú? ¿La usas? ¿La recomendó alguien de confianza? Si la reconoces y la necesitas, probablemente no haya problema. Si no la reconoces o no sabes de dónde salió, lo más seguro es quitarla."
+        },
+        {
+          "titulo": "Abre su configuración desde Sano Móvil",
+          "texto": "En Seguridad (la tarjeta del Inicio), toca la app y luego «Abrir configuración». Ahí verás un botón «Desinstalar». Tócalo y confirma."
+        },
+        {
+          "titulo": "Si no te deja desinstalarla",
+          "texto": "Si el botón «Desinstalar» está gris o no hace nada, la app tiene un permiso especial. Mira la guía «Una app no me deja desinstalarla»."
+        },
+        {
+          "titulo": "Después de quitarla",
+          "texto": "Si ya habías usado tu banco o tu correo con esa app instalada, cambia esas contraseñas desde otro aparato y revisa tus movimientos bancarios. La guía «Creo que mi teléfono ya fue afectado» te acompaña."
+        }
+      ]
+    },
+    {
+      "id": "app-no-desinstala",
+      "titulo": "Una app no me deja desinstalarla",
+      "resumen": "Casi siempre es un permiso especial que hay que quitar primero.",
+      "ajuste": "seguridad",
+      "pasos": [
+        {
+          "titulo": "Por qué pasa",
+          "texto": "Algunas apps se vuelven «administradoras del dispositivo» o activan un servicio de accesibilidad. Mientras tengan ese permiso, Android no deja desinstalarlas. Los programas maliciosos lo usan justamente para quedarse."
+        },
+        {
+          "titulo": "Quita el permiso de administrador",
+          "texto": "En Ajustes busca «Seguridad» y luego «Apps de administración del dispositivo» (el nombre cambia según la marca). Si ves la app, apaga su interruptor o toca «Desactivar»."
+        },
+        {
+          "titulo": "Revisa accesibilidad",
+          "texto": "En Ajustes > Accesibilidad > Apps instaladas, si aparece la app, entra y apágala. El botón de abajo de la guía «Servicios de accesibilidad» te lleva directo."
+        },
+        {
+          "titulo": "Desinstálala",
+          "texto": "Ahora vuelve a Sano Móvil, toca la app y «Abrir configuración», y usa «Desinstalar». Si sigue sin dejarte, reinicia el equipo en modo seguro (apágalo y mantén presionado el botón de apagado hasta ver la opción) y vuelve a intentarlo."
+        }
+      ]
+    },
+    {
+      "id": "bloqueo-pantalla",
+      "titulo": "Poner un bloqueo de pantalla",
+      "resumen": "Un PIN o una huella evitan que otra persona entre a tu teléfono.",
+      "ajuste": "seguridad",
+      "pasos": [
+        {
+          "titulo": "Para qué sirve",
+          "texto": "Si pierdes el teléfono o alguien lo toma, el bloqueo es lo único que protege tus mensajes, fotos, cuentas y tu banco."
+        },
+        {
+          "titulo": "Elige uno fácil de recordar para ti",
+          "texto": "Un PIN de 6 números es más seguro que 4. Evita fechas de cumpleaños y números como 123456. La huella o el rostro son cómodos y se pueden usar junto al PIN."
+        },
+        {
+          "titulo": "Actívalo en Ajustes",
+          "texto": "Toca el botón de abajo, busca «Bloqueo de pantalla» (puede llamarse «Pantalla de bloqueo» o «Seguridad») y elige PIN, patrón o contraseña. Anota tu PIN en un lugar seguro, no en el teléfono."
+        }
+      ]
+    },
+    {
+      "id": "depuracion-usb",
+      "titulo": "Apagar la depuración por USB",
+      "resumen": "Es una función para programadores; si no la usas, mejor apagada.",
+      "ajuste": "desarrollador",
+      "pasos": [
+        {
+          "titulo": "Qué es",
+          "texto": "La depuración por USB permite que un computador conectado por cable controle el teléfono. Es útil para quien programa, pero si alguien conecta tu teléfono a un cargador público o a un computador ajeno, podría aprovecharla."
+        },
+        {
+          "titulo": "Cómo apagarla",
+          "texto": "Toca el botón de abajo para abrir «Opciones de desarrollador». Busca «Depuración por USB» y apaga su interruptor. Si no encuentras estas opciones, entra a Ajustes > Acerca del teléfono y revisa si están ocultas."
+        }
+      ]
+    },
+    {
+      "id": "play-protect",
+      "titulo": "Revisar que Google Play Protect esté activo",
+      "resumen": "Es el analizador gratuito de Google que revisa tus apps.",
+      "pasos": [
+        {
+          "titulo": "Qué es",
+          "texto": "Google Play Protect revisa las apps de tu teléfono todo el tiempo y avisa si encuentra alguna dañina. Viene en la mayoría de los teléfonos Android con Google. Sano Móvil lo complementa; no lo reemplaza."
+        },
+        {
+          "titulo": "Ábrelo",
+          "texto": "Abre la tienda Google Play, toca tu foto o inicial arriba a la derecha y entra a «Play Protect». Los nombres pueden variar un poco."
+        },
+        {
+          "titulo": "Actívalo",
+          "texto": "Toca el engranaje arriba a la derecha y activa «Analizar apps con Play Protect». Luego toca «Analizar» para hacer una revisión ahora mismo."
+        }
+      ]
+    },
+    {
+      "id": "sistema-modificado",
+      "titulo": "Mi equipo parece tener el sistema modificado",
+      "resumen": "Qué significa el «root» y qué conviene hacer.",
+      "pasos": [
+        {
+          "titulo": "Qué detectamos",
+          "texto": "Vimos archivos o apps típicos del «root»: una modificación que da control total sobre el sistema. Algunas personas lo hacen a propósito. Esta detección no es perfecta."
+        },
+        {
+          "titulo": "Si lo hiciste tú",
+          "texto": "Sabes lo que haces, pero ten presente que el root quita protecciones de Android: muchas apps bancarias dejan de funcionar y un error o una app maliciosa puede hacer mucho más daño."
+        },
+        {
+          "titulo": "Si NO lo hiciste tú",
+          "texto": "Podría haberlo hecho un programa malicioso, o el teléfono venir de segunda mano ya modificado. No uses la banca ni cambies contraseñas en este equipo. Lleva el teléfono a un servicio técnico de confianza para restaurar el sistema original."
+        }
+      ]
+    },
+    {
+      "id": "instaladores-apk",
+      "titulo": "Instaladores (.apk) guardados en tu equipo",
+      "resumen": "Por qué conviene borrarlos una vez instalada la app.",
+      "ajuste": "instalar-desconocidas",
+      "pasos": [
+        {
+          "titulo": "Qué son",
+          "texto": "Un archivo .apk es el instalador de una app. Las apps de las tiendas oficiales no los dejan guardados. Si ves uno en Descargas, vino de un enlace, un mensaje o un computador."
+        },
+        {
+          "titulo": "Por qué conviene tener cuidado",
+          "texto": "Muchos fraudes empiezan con «descarga esta app desde este enlace». Un .apk de origen dudoso puede instalar un programa que lea tus mensajes o tu pantalla."
+        },
+        {
+          "titulo": "Qué hacer",
+          "texto": "Si ya no lo necesitas o no sabes de dónde salió, bórralo desde Gestionar > Aplicaciones (APK). Y revisa cuáles apps tienen permiso de instalar otras: el botón de abajo te lleva a esa lista."
+        }
+      ]
+    },
+    {
+      "id": "si-ya-te-afectaron",
+      "titulo": "Creo que mi teléfono ya fue afectado",
+      "resumen": "Qué hacer, en orden, si instalaste algo dudoso o dieron datos tuyos.",
+      "pasos": [
+        {
+          "titulo": "Corta la conexión",
+          "texto": "Activa el modo avión o apaga el WiFi y los datos. Así el programa no puede enviar más información mientras tú actúas."
+        },
+        {
+          "titulo": "Cambia tus contraseñas desde OTRO aparato",
+          "texto": "Usa otro teléfono o un computador de confianza. Empieza por tu correo (es la llave de todo), luego tu banco y tus redes sociales. Activa la verificación en dos pasos donde puedas."
+        },
+        {
+          "titulo": "Avisa a tu banco",
+          "texto": "Llama al número oficial que está en tu tarjeta o en la página real del banco (no al que te llegó por mensaje). Cuéntales lo ocurrido, revisa tus movimientos y pide bloquear lo que corresponda."
+        },
+        {
+          "titulo": "Quita la app sospechosa",
+          "texto": "En Seguridad toca la app y «Abrir configuración» para desinstalarla. Si no te deja, mira la guía «Una app no me deja desinstalarla»."
+        },
+        {
+          "titulo": "Si persisten los problemas",
+          "texto": "Guarda tus fotos y contactos en tu cuenta de Google u otro lugar seguro, y restablece el teléfono de fábrica (Ajustes > Sistema > Restablecer). Después, instala solo apps de la tienda oficial y no restaures desde un respaldo hecho después del problema."
+        }
+      ]
+    },
+    {
+      "id": "notificaciones-acceso",
+      "titulo": "Quién puede leer tus notificaciones",
+      "resumen": "Las notificaciones suelen traer códigos de verificación.",
+      "ajuste": "notificaciones-acceso",
+      "pasos": [
+        {
+          "titulo": "Por qué importa",
+          "texto": "Las apps con «acceso a notificaciones» pueden leer todo lo que te llega, incluidos los códigos de tu banco. Algunas lo necesitan (relojes inteligentes, por ejemplo); la mayoría, no."
+        },
+        {
+          "titulo": "Revisa la lista",
+          "texto": "Toca el botón de abajo. Verás las apps con este permiso. Apaga el de cualquiera que no reconozcas o no necesite leer tus avisos."
+        }
+      ]
+    },
+    {
+      "id": "superposicion",
+      "titulo": "Quién puede dibujar sobre otras apps",
+      "resumen": "Un permiso que algunos fraudes usan para mostrar pantallas falsas.",
+      "ajuste": "superposicion",
+      "pasos": [
+        {
+          "titulo": "Por qué importa",
+          "texto": "Una app con este permiso puede mostrar una pantalla encima de otra, por ejemplo un falso formulario del banco para robar tu clave. Algunas apps legítimas lo usan (burbujas de chat, grabadores de pantalla)."
+        },
+        {
+          "titulo": "Revisa la lista",
+          "texto": "Toca el botón de abajo y mira qué apps tienen el permiso. Apaga el de las que no reconozcas o que no necesiten mostrarse encima de otras."
+        }
+      ]
+    }
+  ]
+}

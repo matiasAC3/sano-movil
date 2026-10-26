@@ -1,0 +1,127 @@
+{
+  "version": 1,
+  "_ayuda": "Lista LOCAL de amenazas. Agrega SOLO datos verificados con una fuente publica y confiable (informes de Google, ESET, Kaspersky, abuse.ch MalwareBazaar, etc.). No inventes ni copies datos sin verificar: un dato falso acusaria a una app inocente. 'paquetes' = nombre de paquete; 'hashes' = SHA-256 de un archivo .apk; 'certificados' = SHA-256 del certificado de firma. 'marcas' = nombres de apps famosas con su(s) unico(s) paquete(s) oficial(es): si una app se llama igual pero tiene otro paquete, se avisa.",
+  "paquetes": [
+    {
+      "paquete": "com.ejemplo.noreal.amenaza",
+      "nota": "ejemplo ficticio (borrar)"
+    }
+  ],
+  "hashes": [],
+  "certificados": [],
+  "marcas": [
+    {
+      "nombres": [
+        "WhatsApp"
+      ],
+      "paquetes": [
+        "com.whatsapp",
+        "com.whatsapp.w4b"
+      ]
+    },
+    {
+      "nombres": [
+        "Facebook"
+      ],
+      "paquetes": [
+        "com.facebook.katana",
+        "com.facebook.lite"
+      ]
+    },
+    {
+      "nombres": [
+        "Messenger"
+      ],
+      "paquetes": [
+        "com.facebook.orca",
+        "com.facebook.mlite"
+      ]
+    },
+    {
+      "nombres": [
+        "Instagram"
+      ],
+      "paquetes": [
+        "com.instagram.android",
+        "com.instagram.lite"
+      ]
+    },
+    {
+      "nombres": [
+        "TikTok"
+      ],
+      "paquetes": [
+        "com.zhiliaoapp.musically",
+        "com.ss.android.ugc.trill",
+        "com.zhiliaoapp.musically.go"
+      ]
+    },
+    {
+      "nombres": [
+        "Telegram"
+      ],
+      "paquetes": [
+        "org.telegram.messenger",
+        "org.telegram.messenger.web"
+      ]
+    },
+    {
+      "nombres": [
+        "Signal"
+      ],
+      "paquetes": [
+        "org.thoughtcrime.securesms"
+      ]
+    },
+    {
+      "nombres": [
+        "Gmail"
+      ],
+      "paquetes": [
+        "com.google.android.gm"
+      ]
+    },
+    {
+      "nombres": [
+        "Chrome",
+        "Google Chrome"
+      ],
+      "paquetes": [
+        "com.android.chrome"
+      ]
+    },
+    {
+      "nombres": [
+        "YouTube"
+      ],
+      "paquetes": [
+        "com.google.android.youtube"
+      ]
+    },
+    {
+      "nombres": [
+        "Netflix"
+      ],
+      "paquetes": [
+        "com.netflix.mediaclient"
+      ]
+    },
+    {
+      "nombres": [
+        "Spotify"
+      ],
+      "paquetes": [
+        "com.spotify.music"
+      ]
+    },
+    {
+      "nombres": [
+        "Google Play Store",
+        "Play Store"
+      ],
+      "paquetes": [
+        "com.android.vending"
+      ]
+    }
+  ]
+}

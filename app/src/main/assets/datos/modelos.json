@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "generales": [],
+  "modelos": [
+    {
+      "prefijos": ["EJEMPLO-NO-REAL"],
+      "nombre": "Modelo de ejemplo (datos ficticios)",
+      "ficha": [
+        { "etiqueta": "Año de lanzamiento", "valor": "2000 (ejemplo)" },
+        { "etiqueta": "Android máximo soportado", "valor": "Ejemplo" }
+      ],
+      "alertas": [
+        {
+          "titulo": "Ejemplo de alerta por modelo",
+          "detalle": "Reemplaza este ejemplo con información verificada de un modelo real (fuente oficial del fabricante). Nivel puede ser: ok, atencion o peligro.",
+          "nivel": "atencion"
+        }
+      ]
+    }
+  ]
+}

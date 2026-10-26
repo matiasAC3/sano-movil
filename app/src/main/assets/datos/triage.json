@@ -1,0 +1,52 @@
+{
+  "sintomas": [
+    {
+      "id": "calienta",
+      "pregunta": "¿Tu equipo se calienta más de lo normal?",
+      "detalle": "Puede deberse al uso intenso, a la carga o a una funda gruesa. Retira la funda, evita el sol directo y no lo uses mientras carga.",
+      "guiaId": "cuidar-bateria"
+    },
+    {
+      "id": "carga-corta",
+      "pregunta": "¿La carga te dura mucho menos que antes?",
+      "detalle": "Con el tiempo toda batería pierde capacidad y es normal. Revisa qué apps gastan más y activa el ahorro de batería.",
+      "guiaId": "cuidar-bateria"
+    },
+    {
+      "id": "lento",
+      "pregunta": "¿Va lento o se queda pegado?",
+      "detalle": "Suele ayudar reiniciarlo, liberar espacio y mantenerlo actualizado.",
+      "guiaId": "celular-lento"
+    },
+    {
+      "id": "sin-espacio",
+      "pregunta": "¿Te avisa que no hay espacio para guardar fotos?",
+      "detalle": "Conviene revisar qué ocupa más espacio y respaldar lo importante antes de borrar.",
+      "guiaId": "liberar-espacio"
+    },
+    {
+      "id": "anuncios",
+      "pregunta": "¿Aparecen anuncios o ventanas que no pediste, incluso fuera de las apps?",
+      "detalle": "Puede ser una app instalada que no reconoces. Revisa las apps instaladas fuera de tiendas y los servicios de accesibilidad activos.",
+      "guiaId": "servicios-accesibilidad"
+    },
+    {
+      "id": "desactualizado",
+      "pregunta": "¿Hace mucho que no actualizas el sistema del equipo?",
+      "detalle": "Las actualizaciones corrigen fallas de seguridad conocidas. Conviene buscarlas con regularidad.",
+      "guiaId": "actualizar-sistema"
+    },
+    {
+      "id": "anuncios-raros",
+      "pregunta": "¿Te salen anuncios o ventanas que no pediste?",
+      "detalle": "Puede venir de una app instalada fuera de la tienda o de un sitio web engañoso. Revisa la sección Seguridad para ver si hay apps por revisar.",
+      "guiaId": "app-sospechosa"
+    },
+    {
+      "id": "app-desconocida",
+      "pregunta": "¿Ves una app que no recuerdas haber instalado?",
+      "detalle": "Conviene mirarla con calma. En Seguridad puedes ver de dónde vino y qué permisos tiene, y decidir si quitarla.",
+      "guiaId": "app-sospechosa"
+    }
+  ]
+}
